@@ -1,0 +1,47 @@
+C:\Users\Neno\Desktop\net logo dogshit\netTK\netTK\netTK\bin\Release\netTK.exe.config
+C:\Users\Neno\Desktop\net logo dogshit\netTK\netTK\netTK\bin\Release\netTK.exe
+C:\Users\Neno\Desktop\net logo dogshit\netTK\netTK\netTK\bin\Release\netTK.pdb
+C:\Users\Neno\Desktop\net logo dogshit\netTK\netTK\netTK\bin\Release\OpenTK.dll
+C:\Users\Neno\Desktop\net logo dogshit\netTK\netTK\netTK\bin\Release\OpenTK.GLControl.dll
+C:\Users\Neno\Desktop\net logo dogshit\netTK\netTK\netTK\bin\Release\OpenTK.pdb
+C:\Users\Neno\Desktop\net logo dogshit\netTK\netTK\netTK\bin\Release\OpenTK.xml
+C:\Users\Neno\Desktop\net logo dogshit\netTK\netTK\netTK\bin\Release\OpenTK.GLControl.pdb
+C:\Users\Neno\Desktop\net logo dogshit\netTK\netTK\netTK\bin\Release\OpenTK.GLControl.xml
+C:\Users\Neno\Desktop\net logo dogshit\netTK\netTK\netTK\obj\Release\netTK.Form1.resources
+C:\Users\Neno\Desktop\net logo dogshit\netTK\netTK\netTK\obj\Release\netTK.Properties.Resources.resources
+C:\Users\Neno\Desktop\net logo dogshit\netTK\netTK\netTK\obj\Release\netTK.csproj.GenerateResource.Cache
+C:\Users\Neno\Desktop\net logo dogshit\netTK\netTK\netTK\obj\Release\netTK.exe
+C:\Users\Neno\Desktop\net logo dogshit\netTK\netTK\netTK\obj\Release\netTK.pdb
+C:\Users\Neno\Desktop\net logo dogshit\netTK\netTK\netTK\obj\Release\netTK.csprojResolveAssemblyReference.cache
+C:\Users\Neno\Desktop\net logo dogshit\netTK - Copy\netTK\bin\Release\netTK.exe.config
+C:\Users\Neno\Desktop\net logo dogshit\netTK - Copy\netTK\obj\Release\netTK.exe
+C:\Users\Neno\Desktop\net logo dogshit\netTK - Copy\netTK\obj\Release\netTK.pdb
+C:\Users\Neno\Desktop\net logo dogshit\netTK - Copy\netTK\bin\Release\Assets\arrow.png
+C:\Users\Neno\Desktop\net logo dogshit\netTK - Copy\netTK\bin\Release\netTK.exe
+C:\Users\Neno\Desktop\net logo dogshit\netTK - Copy\netTK\bin\Release\netTK.pdb
+C:\Users\Neno\Desktop\net logo dogshit\netTK - Copy\netTK\bin\Release\OpenTK.dll
+C:\Users\Neno\Desktop\net logo dogshit\netTK - Copy\netTK\bin\Release\OpenTK.GLControl.dll
+C:\Users\Neno\Desktop\net logo dogshit\netTK - Copy\netTK\bin\Release\OpenTK.pdb
+C:\Users\Neno\Desktop\net logo dogshit\netTK - Copy\netTK\bin\Release\OpenTK.xml
+C:\Users\Neno\Desktop\net logo dogshit\netTK - Copy\netTK\bin\Release\OpenTK.GLControl.pdb
+C:\Users\Neno\Desktop\net logo dogshit\netTK - Copy\netTK\bin\Release\OpenTK.GLControl.xml
+C:\Users\Neno\Desktop\net logo dogshit\netTK - Copy\netTK\obj\Release\netTK.csprojResolveAssemblyReference.cache
+C:\Users\Neno\Desktop\net logo dogshit\netTK - Copy\netTK\obj\Release\netTK.Form1.resources
+C:\Users\Neno\Desktop\net logo dogshit\netTK - Copy\netTK\obj\Release\netTK.Properties.Resources.resources
+C:\Users\Neno\Desktop\net logo dogshit\netTK - Copy\netTK\obj\Release\netTK.csproj.GenerateResource.Cache
+C:\Users\Neno\Desktop\netTK_SIM_ALGORITMA_AGENTI\netTK\bin\Release\netTK.exe.config
+C:\Users\Neno\Desktop\netTK_SIM_ALGORITMA_AGENTI\netTK\obj\Release\netTK.exe
+C:\Users\Neno\Desktop\netTK_SIM_ALGORITMA_AGENTI\netTK\obj\Release\netTK.pdb
+C:\Users\Neno\Desktop\netTK_SIM_ALGORITMA_AGENTI\netTK\bin\Release\Assets\arrow.png
+C:\Users\Neno\Desktop\netTK_SIM_ALGORITMA_AGENTI\netTK\bin\Release\netTK.exe
+C:\Users\Neno\Desktop\netTK_SIM_ALGORITMA_AGENTI\netTK\bin\Release\netTK.pdb
+C:\Users\Neno\Desktop\netTK_SIM_ALGORITMA_AGENTI\netTK\bin\Release\OpenTK.dll
+C:\Users\Neno\Desktop\netTK_SIM_ALGORITMA_AGENTI\netTK\bin\Release\OpenTK.GLControl.dll
+C:\Users\Neno\Desktop\netTK_SIM_ALGORITMA_AGENTI\netTK\bin\Release\OpenTK.pdb
+C:\Users\Neno\Desktop\netTK_SIM_ALGORITMA_AGENTI\netTK\bin\Release\OpenTK.xml
+C:\Users\Neno\Desktop\netTK_SIM_ALGORITMA_AGENTI\netTK\bin\Release\OpenTK.GLControl.pdb
+C:\Users\Neno\Desktop\netTK_SIM_ALGORITMA_AGENTI\netTK\bin\Release\OpenTK.GLControl.xml
+C:\Users\Neno\Desktop\netTK_SIM_ALGORITMA_AGENTI\netTK\obj\Release\netTK.csprojResolveAssemblyReference.cache
+C:\Users\Neno\Desktop\netTK_SIM_ALGORITMA_AGENTI\netTK\obj\Release\netTK.Form1.resources
+C:\Users\Neno\Desktop\netTK_SIM_ALGORITMA_AGENTI\netTK\obj\Release\netTK.Properties.Resources.resources
+C:\Users\Neno\Desktop\netTK_SIM_ALGORITMA_AGENTI\netTK\obj\Release\netTK.csproj.GenerateResource.Cache
