@@ -1,6 +1,7 @@
 # netTK
 
-netTK is a project that offers the same features as netLogo framework which uses Logo programing language. Those features include the ability to test algorithams and A.I. projects.
+netTK is a project that offers the same features as NetLogo enviorment which uses Logo programing language. NetLogo is a multi-agent programmable modeling environment, as
+such, the .NET version netTK offers users the same features as the Logo version.
 
 It is created in .NET framework using the C# language for the ability to use the .NET codebase as well as Intellisense which is sorely lacking in Logo programing language.
 
